@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Greenside Crew</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <header>
+    <h1>Greenside Crew</h1>
+    <p>Your local landscaping experts turning yards into paradise</p>
+  </header>
+
+  <section>
+    <h2>About Us</h2>
+    <p>Greenside Crew is more than just a landscaping company — we’re a team of passionate professionals dedicated to transforming outdoor spaces into beautiful, functional, and inviting environments. From meticulous lawn care to creative garden designs, we bring precision, creativity, and care to every project.</p>
+
+    <h2>Our Mission</h2>
+    <p>Our mission is to provide reliable, high-quality landscaping services that make our clients proud of their outdoor spaces. We aim to combine efficiency, craftsmanship, and a personal touch to ensure every yard reflects the personality and lifestyle of its owner.</p>
+
+    <h2>Why Choose Us</h2>
+    <p>At Greenside Crew, we believe your outdoors should be an extension of your home. With years of experience, attention to detail, and a commitment to excellence, we handle every task—from routine maintenance to complex landscaping projects—with professionalism and care. Your satisfaction is our top priority.</p>
+  </section>
+
+  <section>
+    <h2>Our Services</h2>
+    <div class="services-container">
+      <div class="service-box">
+        <img src="images/service1.jpg" alt="Lawn Care">
+        <h3>Lawn Care</h3>
+        <p>Mowing, edging, fertilizing, and aeration to keep your lawn healthy and lush.</p>
+      </div>
+      <div class="service-box">
+        <img src="images/service2.jpg" alt="Garden Design">
+        <h3>Garden Design</h3>
+        <p>Custom garden layouts, planting, and maintenance to enhance your outdoor space.</p>
+      </div>
+      <div class="service-box">
+        <img src="images/service3.jpg" alt="Landscaping Projects">
+        <h3>Landscaping Projects</h3>
+        <p>Patios, walkways, retaining walls, and outdoor living spaces built to perfection.</p>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Meet the Crew</h2>
+    <div class="crew-container">
+      <div class="crew-member">
+        <img src="images/crew1.jpg" alt="John Doe">
+        <h3>John Doe</h3>
+        <p>Lead Landscaper</p>
+        <div class="social-links">
+          <a href="#" target="_blank">FB</a>
+          <a href="#" target="_blank">IG</a>
+        </div>
+      </div>
+      <div class="crew-member">
+        <img src="images/crew2.jpg" alt="Jane Smith">
+        <h3>Jane Smith</h3>
+        <p>Garden Specialist</p>
+        <div class="social-links">
+          <a href="#" target="_blank">FB</a>
+          <a href="#" target="_blank">IG</a>
+        </div>
+      </div>
+      <div class="crew-member">
+        <img src="images/crew3.jpg" alt="Mike Brown">
+        <h3>Mike Brown</h3>
+        <p>Lawn Technician</p>
+        <div class="social-links">
+          <a href="#" target="_blank">FB</a>
+          <a href="#" target="_blank">IG</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Testimonials</h2>
+    <div class="testimonials-container">
+      <div class="testimonial-box">
+        <h3>Sarah L.</h3>
+        <p>"Greenside Crew transformed my backyard! Professional, reliable, and creative. Highly recommend!"</p>
+      </div>
+      <div class="testimonial-box">
+        <h3>Tom R.</h3>
+        <p>"Fast, efficient, and thorough. My lawn has never looked better!"</p>
+      </div>
+      <div class="testimonial-box">
+        <h3>Emily W.</h3>
+        <p>"Friendly team and amazing results. I trust them with all my landscaping needs."</p>
+      </div>
+    </div>
+  </section>
+
+  <section style="text-align: center;">
+    <a href="contact.html" class="quote-btn">Get a Free Quote</a>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Greenside Crew. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
